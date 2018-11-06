@@ -1,6 +1,6 @@
 {
-  "name": "visualappeal/laravel-rbac",
-  "description": "Role based access control for Laravel 5",
+  "name": "jtelton/laravel-rbac",
+  "description": "Role based access control for Laravel 5.5.*",
   "keywords": [
     "laravel",
     "rbac",
@@ -21,8 +21,8 @@
     }
   ],
   "require": {
-    "php": ">=5.5.9",
-    "illuminate/support": ">=5.4"
+    "php": ">=7.0.0",
+    "illuminate/support": ">=5.5.*"
   },
   "autoload": {
     "psr-4": {
