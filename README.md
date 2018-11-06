@@ -5,7 +5,7 @@ Super simple RBAC/ACL implementation for Laravel 5.5
 Require this package with composer ([Packagist](https://packagist.org/packages/phpzen/laravel-rbac)) using the following command
 
 ```
-composer require jtelton/laravel-rbac
+composer require visualappeal/laravel-rbac
 ```
 
 or modify your `composer.json`
@@ -13,7 +13,7 @@ or modify your `composer.json`
 ```
 "require": {
     ...
-    "jtelton/laravel-rbac": "^0.1"
+    "visualappeal/laravel-rbac": "^0.7"
 }
 ```
 
